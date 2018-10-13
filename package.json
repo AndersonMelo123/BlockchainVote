@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/AndersonMelo123/BlockchainVote/issues"
   },
-  "homepage": "https://github.com/AndersonMelo123/BlockchainVote#readme"
+  "homepage": "https://github.com/AndersonMelo123/BlockchainVote#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
 }
